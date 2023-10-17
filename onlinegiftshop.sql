@@ -20,7 +20,10 @@ SET time_zone = "+00:00";
 --
 -- Database: `onlinegiftshop`
 --
-
+Host: 127.0.0.1
+-- Generation Time: Jan 16, 2022 at 01:37 PM
+-- Server version: 10.4.21-MariaDB
+-- PHP Version: 8.0.11
 -- --------------------------------------------------------
 
 --
